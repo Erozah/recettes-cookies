@@ -1,4 +1,4 @@
-# recettes-cookies
+# Recette de cookies
 > Une recette gourmande !
 
 - *85g de beurre mou*
