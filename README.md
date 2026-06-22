@@ -9,3 +9,4 @@
 - *100g de chocolat noir*
 - *1 cuillère à café de sel*
 - *1cuillère à café de levure chimique*
+- *1 boule de glace vanille*
