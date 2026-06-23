@@ -11,4 +11,4 @@
 - *1 cuillère à café de levure chimique*
 - *1 boule de glace vanille*
 
-> >Faites vous plaisir!
+>Faites vous plaisir!
