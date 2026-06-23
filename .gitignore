@@ -35,4 +35,7 @@
 .history
 .ionide
 
+#Passwords
+.pass*
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux
