@@ -12,3 +12,4 @@
 - *1 boule de glace vanille*
 
 > Evitez de manger trop gras, trop salé, trop sucré
+> >Faites vous plaisir!
