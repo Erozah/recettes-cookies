@@ -10,5 +10,3 @@
 - *1 cuillère à café de sel*
 - *1 cuillère à café de levure chimique*
 - *1 boule de glace vanille*
-
-> Faites vous plaisir!
