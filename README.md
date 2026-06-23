@@ -10,3 +10,5 @@
 - *1 cuillère à café de sel*
 - *1cuillère à café de levure chimique*
 - *1 boule de glace vanille*
+
+> Evitez de manger trop gras, trop salé, trop sucré
