@@ -5,5 +5,3 @@
 *Nestlé, qui songeait à arrêter la fabrication de ce chocolat, envoya un représentant sur place afin de découvrir la raison du succès local de leur chocolat. Puis André Nestlé et Ruth Wakefield convinrent d'un accord : la firme Nestlé pourrait utiliser la recette de Ruth et le nom de son Auberge du Péage (Toll House Inn), à condition que la recette des cookies soit imprimée sur l'emballage et que Ruth soit approvisionnée en chocolat Nestlé variété.*
 
 *La Seconde Guerre mondiale, et le brassage de tous les GI venant de différents États des États-Unis, assurèrent la diffusion de cette recette de Nouvelle Angleterre : les cookies, délicieux, hautement énergétiques sous un faible volume, et supportant bien le transport vers les théâtres d'opérations extérieures eurent un énorme succès, et Nestlé en bénéficia.*
-
-*Et maintenant, plus rien*
